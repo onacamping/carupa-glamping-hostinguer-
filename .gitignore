@@ -1,0 +1,23 @@
+node_modules
+dist
+1dist
+build
+.vite
+
+.env
+.env.*
+
+attached_assets
+backup*
+base*
+
+*.zip
+*.gz
+*.log
+
+# uploads e imágenes locales (CRÍTICO)
+public/uploads
+public/images/uploads
+
+# evita subir todo public si tienes assets pesados
+public
